@@ -1,5 +1,5 @@
 export type ShipBodyData = {
-    radius: number;
-    offsetX: number;
-    offsetY: number;
-}
+  radius: number;
+  offsetX: number;
+  offsetY: number;
+};
